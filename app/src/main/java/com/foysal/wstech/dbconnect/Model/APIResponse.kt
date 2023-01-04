@@ -2,9 +2,9 @@ package com.foysal.wstech.dbconnect.Model
 
 class APIResponse {
 
-    var isError : Boolean = false
+    var error : Boolean = false
     var uid : String? = null
-    var errorMsg : String? = null
+    var error_msg : String? = null
     var user : User? = null
 
 }

@@ -91,7 +91,7 @@
                     <LinearLayout
                         android:layout_width="match_parent"
                         android:layout_height="1dp"
-                        android:background="979797"></LinearLayout>
+                        android:background="#979797"></LinearLayout>
                     <LinearLayout
                         android:layout_width="match_parent"
                         android:layout_height="60dp"
